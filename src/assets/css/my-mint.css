@@ -1,0 +1,14 @@
+.mint-datetime-action{
+	color: #ff9517;
+}
+.mint-msgbox-confirm{
+	color: #ff9517;
+}
+.mint-cell-wrapper{
+	padding: 0;
+	background-size: 120% 0;
+}
+.mint-cell-swipe-button{
+	vertical-align: middle;
+	line-height: 2.0rem;
+}

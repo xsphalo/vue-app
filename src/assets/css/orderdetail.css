@@ -1,0 +1,94 @@
+.detailtop{
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	height: 1.87rem;
+	margin-bottom: 0.27rem;
+	background: #fff;
+	padding: 0.3rem 0.27rem;
+}
+.detailtop p{
+	font-size: 16px;
+	color: #333;
+	margin: 0;
+}
+.detailtop p:last-child{
+	color: #666;
+}
+.detailtop p span{
+	color: #ff9517;
+}
+
+.detailitem{
+	padding-left: 0.27rem;
+	height: 1.07rem;
+	background: #fff;
+	width: 100%;
+}
+.details{
+	height: 1.07rem;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	border-bottom: 1px solid #e6e6e6;
+	width: 100%
+}
+.passnumber{
+	height: 1.07rem;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 100%;
+}
+.details p{
+	margin: 0;
+	font-size: 16px;
+	color: #999;
+}
+.details p:last-child{
+	color: #333;
+}
+.passhone{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	/* border-bottom: 1px solid #e6e6e6; */
+}
+.passnumber{
+	border-bottom: 1px solid #e6e6e6;
+}
+.passnumber p{
+	margin: 0;
+	font-size: 16px;
+	color: #999;
+}
+.passnumber p:last-child{
+	color: #333;
+}
+.phones{
+	height: 1.07rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 1.6rem;
+	border-bottom: 1px solid #e6e6e6;
+}
+.phones img{
+	width: 0.53rem;
+	height: 0.53rem;
+}
+.marginbot{
+	margin-bottom: 0.27rem;
+}
+.nobtmbor{
+	border-bottom: 0;
+}
+.leter{
+	width: 80px;
+	text-align: justify;
+	height: 0.51rem;
+}
+.leter:after{
+	width: 100%;height: 0;margin: 0;display: inline-block;overflow: hidden;content: '';
+}

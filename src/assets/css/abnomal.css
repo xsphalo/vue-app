@@ -1,0 +1,51 @@
+.nomore{
+	height: 0.93rem;
+	text-align: center;
+	font-size: 12px;
+	color: #999;
+	background: #f2f2f2;
+	line-height: 0.93rem;
+}
+.abnomals{
+	padding: 0.27rem;
+}
+.abnoitems{
+	background: #fff;
+	width: 100%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.27rem;
+	margin-bottom: 0.27rem;
+}
+.abnoleft{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.abnoleft p{
+	margin: 0;
+	font-size: 14px;
+	color: #666;
+	letter-spacing: 1px;
+
+}
+.abnoleft p span:first-child{
+	display: inline-block;
+	margin-right: 0.27rem;
+}
+.abnoright{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	flex-direction: column;
+	height: 100%;
+}
+.abnoright p{
+	color: #dd2c2c;
+	font-size: 14px;
+}
+.abnoright button{
+	padding: 0.05rem 0.21rem;
+}

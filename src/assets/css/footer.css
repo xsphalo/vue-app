@@ -1,0 +1,30 @@
+.footers{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: #fff;
+	/* height: 1.28rem; */
+	border-top: 1px solid #e6e6e6;
+	padding: 0.13rem 0;
+	padding-top: 0.27rem;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.footers .footer-item{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.footers .footer-item img{
+	width: 0.59rem;
+	height: 0.59rem;
+
+}
+.footers .footer-item p{
+	margin: 0;
+	font-size: 14px;
+	color: #555;
+}

@@ -1,0 +1,100 @@
+.mui-content{
+	width: 100%;
+}
+.conten-top{
+	background: #fff;
+	height: 2.13rem;
+	width: 100%;
+	padding: 0 0.27rem;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 0.4rem;
+}
+.conten-top .topleftpic{
+	height: 2.13rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.conten-top .topleftpic img{
+	width: 1.6rem;
+	height: 1.6rem;
+	border-radius: 10px;
+	margin-right: 0.27rem;
+}
+.conten-top .topright{
+	height: 2.13rem;
+	padding: 0.53rem 0;
+}
+.conten-top .topright p:first-child{
+	font-size: 16px;
+	color: #333;
+	font-weight: bold;
+
+}
+.conten-top .topright p:last-child{
+	font-size: 14px;
+	color: #333;
+}
+.percontent{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	background: #fff;
+}
+.leftpic{
+	width: 11.4444%;
+	height: 1.2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+.leftpic img{
+	width: 0.61rem;
+	height: 0.61rem;
+}
+.rightfotns{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 88.53333%;
+	height: 1.2rem;
+	padding-right: 0.27rem;
+	border-bottom: 1px solid #e6e6e6;
+}
+.rightfotns p{
+	margin: 0;
+}
+.rightfotns .dotsper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.rightfotns  img{
+	width: 0.21rem;
+	height: 0.37rem;
+}
+.rightfotns .dotsper img{
+	width: 0.21rem;
+	height: 0.37rem;
+}
+.rightfotns .dotsper .dots{
+	width: 0.21rem;
+	height: 0.21rem;
+	border-radius: 50%;
+	background: #ff2c2c;
+	margin-right: 0.48rem
+}
+.nobtom{
+	border: 0;
+}
+.martop{
+	margin-top: 0.4rem;
+}
+.mui-popup-button{
+	color: #ff9517;
+}

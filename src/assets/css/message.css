@@ -1,0 +1,87 @@
+.circle span {
+	display: inline-block;
+	width: 0.16rem;
+	height: 0.16rem;
+	background: #fff;
+	border-radius: 50%;
+}
+
+.pad {
+	padding-left: 0.27rem;
+	background: #fff;
+	height: 1.87rem;
+}
+
+.notes {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #e6e6e6;
+	padding-right: 0.27rem;
+	background: #fff;
+	height: 1.87rem;
+}
+
+.noteleft {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.noteleft .xiaoxi img {
+	width: 1.2rem;
+	height: 1.2rem;
+	border-radius: 10px;
+	margin-right: 0.4rem;
+}
+
+.noteleft .notefont {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-direction: column;
+	height: 1rem;
+
+}
+
+.noteleft .notefont p {
+	margin: 0;
+}
+
+.noteleft .notefont p:first-child {
+	font-size: 16px;
+	color: #333;
+}
+
+.noteleft .notefont p:last-child {
+	font-size: 14px;
+	color: #666;
+}
+
+.noteright {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	flex-direction: column;
+}
+
+.noteright p {
+	margin: 0;
+	font-size: 12px;
+	color: #999;
+}
+
+.noteleft .xiaoxi{
+	position: relative;
+}
+.dots{
+	width: 0.21rem;
+	height: 0.21rem;
+	background: #ff2c2c;
+	border-radius: 50%;
+	position: absolute;
+	right: 0.3rem;
+	top: -0.08rem;
+}
+/* ............滑动删除........ */
+
