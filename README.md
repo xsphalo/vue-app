@@ -5,7 +5,7 @@
 ## 基于Vue(2.x)的移动端app（安卓）
 ## Build Setup
   Build Setup
-### 所用依赖
+### 技术支持
 - Vue 2.x
 - Vue Router
 - Mint-ui (http://mint-ui.github.io/#!/zh-cn)
