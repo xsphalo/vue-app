@@ -1,5 +1,5 @@
 import http from './public'
-let url = 'http://shaodai.3dsort.com/app/staff'
+let url = 'http://xsphalo.apimock.com/app/staff'
 // 登陆
 export const userLogin = (params) => {
   return http.fetchPost(url+'/login', params)
