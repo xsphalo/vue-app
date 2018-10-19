@@ -1,6 +1,6 @@
 # workers
 
-> 工作人员端 APP（安卓端）
+> APP（安卓端）
 
 ## 基于Vue(2.x)的移动端app（安卓）
 ## Build Setup
@@ -41,7 +41,3 @@ npm install --save-dev babel-polyfill
 recommend Vuex requires a Promise polyfill in this browser
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-移动端预览
-
-
-![image](https://github.com/xsphalo/vue-app/raw/master/erwei.png)
